@@ -1,0 +1,33 @@
+﻿# Simulation/generated files
+work/
+log/
+cov/
+covhtmlreport/
+apb_assert_demo/work/
+
+# Questa/ModelSim artifacts
+*.wlf
+*.vcd
+transcript
+vsim_stacktrace.vstf
+modelsim.ini
+run_test.vt
+sim.log
+*.log
+vcover.log
+
+# Coverage database/report artifacts
+*.ucdb
+*.cov
+
+# Temporary editor/Office files
+~$*
+*.tmp
+*.bak
+
+# OS/editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Keep source, scripts, docs, and build recipe tracked

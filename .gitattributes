@@ -1,0 +1,20 @@
+﻿# Keep source files stable across Windows/Linux EDA environments
+*.sv      text eol=lf
+*.v       text eol=lf
+*.vh      text eol=lf
+*.f       text eol=lf
+Makefile  text eol=lf
+*.mk      text eol=lf
+*.md      text eol=lf
+*.txt     text eol=lf
+*.do      text eol=lf
+
+# Binary documentation/artifacts
+*.docx    binary
+*.xlsx    binary
+*.pdf     binary
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.wlf     binary
+*.ucdb    binary
